@@ -8,7 +8,6 @@ I just add a dockerfile, that you can deploy the pytutor in a container.
 
 You can visit my demo here: [PyTutor](http://pytutor.seamile.cn/visualize.html).
 
-update 2024-7-26
 
 ## Usage
 
